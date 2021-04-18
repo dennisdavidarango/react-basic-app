@@ -1,0 +1,12 @@
+.product-table-container{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 380px;
+    border: 1px solid greenyellow;
+    margin-top: 10px;
+}
+
+.product-table-title{
+    display: flex;
+    justify-content: space-evenly;
+}
